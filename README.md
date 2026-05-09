@@ -21,6 +21,14 @@ This is a fully functional E-commerce web application built using modern fronten
 
 💾 Persistent cart (localStorage)
 
+📸 Screenshots
+
+![Screenshot 1](src/assets/Screenshot%20from%202026-05-09%2013-42-35.png)
+
+![Screenshot 2](src/assets/Screenshot%20from%202026-05-09%2013-42-48.png)
+
+![Screenshot 3](src/assets/Screenshot%20from%202026-05-09%2013-43-04.png)
+
 🧠 Tech Stack
 React – UI library
 
