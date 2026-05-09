@@ -51,7 +51,7 @@ src/
 ⚙️ Installation & Setup
 Clone the repository:
 
-git clone https://github.com/your-username/ecommerce-store.git
+git clone https://github.com/Naptile/E-commerce.git
 cd ecommerce-store
 Install dependencies:
 
